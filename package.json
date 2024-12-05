@@ -1,0 +1,22 @@
+{
+  "name": "list",
+  "version": "1.0.0",
+  "description": "Re implementation of ls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarniaEmami/ls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarniaEmami/ls/issues"
+  },
+  "homepage": "https://github.com/FarniaEmami/ls#readme",
+  "bin": {
+    "node-ls": "index.js"
+  }
+}
